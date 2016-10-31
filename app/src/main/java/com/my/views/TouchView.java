@@ -7,7 +7,7 @@ import android.view.MotionEvent;
 import android.widget.Button;
 
 /**
- * Created by xihuan22 on 2016/10/26.
+ * Created by on 2016/10/26.
  */
 public class TouchView extends Button {
     public TouchView(Context context)
